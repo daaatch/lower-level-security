@@ -1,0 +1,25 @@
+character:"O" occurrences:179 frequency:08.548233%
+character:"U" occurrences:149 frequency:07.115568%
+character:"E" occurrences:220 frequency:10.506208%
+character:"T" occurrences:414 frequency:19.770775%
+character:"J" occurrences:102 frequency:04.871060%
+character:"I" occurrences:123 frequency:05.873926%
+character:"D" occurrences:021 frequency:01.002865%
+character:"C" occurrences:068 frequency:03.247374%
+character:" " occurrences:035 frequency:01.671442%
+character:"W" occurrences:101 frequency:04.823305%
+character:"S" occurrences:101 frequency:04.823305%
+character:"L" occurrences:037 frequency:01.766953%
+character:"B" occurrences:086 frequency:04.106972%
+character:"F" occurrences:055 frequency:02.626552%
+character:"A" occurrences:092 frequency:04.393505%
+character:"Y" occurrences:032 frequency:01.528176%
+character:"N" occurrences:018 frequency:00.859599%
+character:"H" occurrences:121 frequency:05.778414%
+character:"R" occurrences:027 frequency:01.289398%
+character:"Q" occurrences:028 frequency:01.337154%
+character:"X" occurrences:016 frequency:00.764088%
+character:"G" occurrences:023 frequency:01.098376%
+character:"P" occurrences:013 frequency:00.620821%
+character:"K" occurrences:002 frequency:00.095511%
+character:"M" occurrences:001 frequency:00.047755%
